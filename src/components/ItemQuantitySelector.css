@@ -1,0 +1,9 @@
+.input-group-responsive {
+  max-width: 100%;
+}
+
+@media (min-width: 576px) {
+  .input-group-responsive {
+    max-width: 300px;
+  }
+}
